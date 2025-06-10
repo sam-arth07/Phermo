@@ -1,4 +1,4 @@
-# 🏥 Phermo - Modern Pharmacy Management System
+# <img src="https://github.com/user-attachments/assets/3d948300-14a6-40eb-b706-b2ffd331c958" height="40px" width="40px"/> Phermo - Modern Pharmacy Management System
 
 ![Phermo Dashboard](https://img.shields.io/badge/React-18+-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-5+-646CFF?style=for-the-badge&logo=vite&logoColor=white)
