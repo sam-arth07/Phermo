@@ -1,0 +1,46 @@
+{
+	"name": "Phermo - Pharmacy Management System",
+	"short_name": "Phermo",
+	"description": "Modern pharmacy management system for inventory tracking, sales management, and customer relations.",
+	"start_url": "/",
+	"display": "standalone",
+	"background_color": "#3B82F6",
+	"theme_color": "#8B5CF6",
+	"orientation": "portrait-primary",
+	"categories": ["business", "productivity", "medical"],
+	"icons": [
+		{
+			"src": "/favicon.svg",
+			"sizes": "32x32",
+			"type": "image/svg+xml",
+			"purpose": "any maskable"
+		},
+		{
+			"src": "/favicon-16x16.svg",
+			"sizes": "16x16",
+			"type": "image/svg+xml"
+		},
+		{
+			"src": "/apple-touch-icon.svg",
+			"sizes": "180x180",
+			"type": "image/svg+xml",
+			"purpose": "apple touch icon"
+		}
+	],
+	"screenshots": [
+		{
+			"src": "/screenshots/desktop-dashboard.png",
+			"sizes": "1920x1080",
+			"type": "image/png",
+			"form_factor": "wide",
+			"label": "Phermo Dashboard - Desktop View"
+		},
+		{
+			"src": "/screenshots/mobile-dashboard.png",
+			"sizes": "390x844",
+			"type": "image/png",
+			"form_factor": "narrow",
+			"label": "Phermo Dashboard - Mobile View"
+		}
+	]
+}

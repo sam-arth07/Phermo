@@ -1,0 +1,51 @@
+<svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient180" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3B82F6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8B5CF6;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="pillGradient180" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#60A5FA;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#A855F7;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#C084FC;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="2" dy="4" stdDeviation="3" flood-color="#000000" flood-opacity="0.2"/>
+    </filter>
+  </defs>
+  
+  <!-- Background with rounded corners for iOS -->
+  <rect x="10" y="10" width="160" height="160" rx="32" ry="32" fill="url(#gradient180)" filter="url(#shadow)"/>
+  
+  <!-- Medicine pill/capsule -->
+  <g transform="translate(45, 65)">
+    <!-- Pill shadow -->
+    <rect x="2" y="4" width="88" height="44" rx="22" ry="22" fill="#000000" opacity="0.1"/>
+    
+    <!-- Main pill body -->
+    <rect x="0" y="0" width="90" height="45" rx="22.5" ry="22.5" fill="white" opacity="0.95"/>
+    
+    <!-- Pill division line -->
+    <line x1="45" y1="0" x2="45" y2="45" stroke="url(#pillGradient180)" stroke-width="3"/>
+    
+    <!-- Left side fill -->
+    <rect x="0" y="0" width="45" height="45" rx="22.5" ry="22.5" fill="url(#pillGradient180)" opacity="0.85"/>
+    
+    <!-- Pill highlights -->
+    <ellipse cx="22.5" cy="15" rx="6" ry="3" fill="white" opacity="0.4"/>
+    <ellipse cx="67.5" cy="15" rx="6" ry="3" fill="white" opacity="0.2"/>
+    
+    <!-- Small texture dots -->
+    <circle cx="22.5" cy="22.5" r="2.5" fill="white" opacity="0.6"/>
+    <circle cx="67.5" cy="22.5" r="2.5" fill="white" opacity="0.3"/>
+  </g>
+  
+  <!-- Medical cross symbol -->
+  <g transform="translate(140, 40)">
+    <rect x="-4" y="-12" width="8" height="24" fill="white" opacity="0.9" rx="2"/>
+    <rect x="-12" y="-4" width="24" height="8" fill="white" opacity="0.9" rx="2"/>
+  </g>
+  
+  <!-- Brand initial "P" -->
+  <text x="90" y="155" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="white" text-anchor="middle" opacity="0.8">P</text>
+</svg>
