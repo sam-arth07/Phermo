@@ -6,6 +6,17 @@
 ![Redux](https://img.shields.io/badge/Redux_Toolkit-2+-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
 A modern, responsive pharmacy management system built with React and cutting-edge web technologies. Phermo provides a comprehensive solution for managing medicines, tracking inventory, processing sales, and monitoring pharmacy operations with a beautiful, intuitive interface.
+## ScreenShots
+![image](https://github.com/user-attachments/assets/3bbc595e-18e1-469e-865e-d26af5ede1d6)
+![image](https://github.com/user-attachments/assets/30234391-6d65-4c78-8abf-cd9828103914)
+![image](https://github.com/user-attachments/assets/6ef54a5a-5121-4ad5-a56c-02c5c0886b3d)
+![image](https://github.com/user-attachments/assets/3f2f5b4c-6926-43f9-b00f-8e5c3270e646)
+![image](https://github.com/user-attachments/assets/ba0106df-c298-49a1-baf7-17335332cb25)
+![image](https://github.com/user-attachments/assets/e45b3b67-ba31-46dc-8e4f-bad0a9042b0c)
+![image](https://github.com/user-attachments/assets/11e5dacf-0530-4987-804a-8f79df1e7938)
+![image](https://github.com/user-attachments/assets/340c2663-9b88-4fc3-9c6d-ace5f0346575)
+
+and much more...
 
 ## ✨ Features
 
